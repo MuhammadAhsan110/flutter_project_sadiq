@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "782640777617",
+    "project_id": "sadiq-flutter",
+    "storage_bucket": "sadiq-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782640777617:android:1e09be97b3a7bc092d7230",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782640777617-ve16nsv9kikfu7v7evikpieg9u5e1qvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjhQhsJh0XeN4dH2kQYWo-NyCF67cT9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782640777617-ve16nsv9kikfu7v7evikpieg9u5e1qvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782640777617-8o5rrb322uovtlaj2fco902bokkcsbgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterTask2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
